@@ -1,4 +1,4 @@
-- Autor: Wiktor Bezulski
+- Autor: Beza
 - Technologia: html, css, js
 - Uruchomienie: index.html
 - Strona: https://beza213.github.io/egzamin2023czerwiec/
